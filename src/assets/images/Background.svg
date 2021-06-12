@@ -1,0 +1,9 @@
+<svg id="Background" xmlns="http://www.w3.org/2000/svg" width="719" height="1433" viewBox="0 0 719 1433">
+  <rect id="Dark_Blue_BG" data-name="Dark Blue BG" width="719" height="1098" fill="#303371"/>
+  <path id="Light_Blue_BG" data-name="Light Blue BG" d="M0,0,414,313.5,0,380V0Z" transform="translate(0 197)" fill="#424a93"/>
+  <path id="Light_Blue_BG_2" data-name="Light Blue BG 2" d="M0,0H268L0,145.5V0Z" fill="#424a93"/>
+  <path id="Green_BG" data-name="Green BG" d="M565.5,0V432H0V365.5Z" transform="translate(0 197)" fill="#02ed89"/>
+  <path id="Pink_BG" data-name="Pink BG" d="M260.5,0l305,232V515H0V169Z" transform="translate(0 394)" fill="#ff6493"/>
+  <path id="Darkest_Blue_BG" data-name="Darkest Blue BG" d="M0,0,550,346.5H0Z" transform="translate(0 672)" fill="#15173e"/>
+  <path id="Rectangle" d="M0,140,566,0V573H0Z" transform="translate(0 860)" fill="#fcfcfc"/>
+</svg>

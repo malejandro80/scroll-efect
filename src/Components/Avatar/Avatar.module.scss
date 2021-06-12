@@ -1,0 +1,24 @@
+/** @format */
+@import '/src/assets/styles/variables';
+.AvatarContent {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2rem;
+  align-items: center;
+  * {
+    padding: 6px;
+  }
+  img {
+    width: 56px;
+  }
+  h3 {
+    color: $white;
+    font-weight: 300;
+    font-size: 16px;
+  }
+  button {
+    border: none;
+    border-radius: 40px;
+    padding: 5px 10px;
+  }
+}

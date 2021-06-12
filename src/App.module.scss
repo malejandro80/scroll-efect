@@ -1,0 +1,15 @@
+/** @format */
+
+.test {
+  background: red;
+}
+
+.app {
+  > img {
+    position: fixed;
+    width: 127.5%;
+    height: 100vh;
+    z-index: -1;
+    top: -37px;
+  }
+}
